@@ -19,6 +19,7 @@ This project is very work in progress, and is completely based on my lost hours 
 - people put this in their game files and build with renpy
 - modded
 
+## Trying to install mods?
 
 There's 3 categories of mods:
 
@@ -28,6 +29,12 @@ There's 3 categories of mods:
 
 Note that you should ALWAYS choose to replace files when doing so.
 
+
+### How to:
+
+- Download renpy and place Cryptid Crush inside of its folder. It should show up in Renpy Launcher?
+- Open the "game" folder and place your mods content inside.
+- Click LAUNCH in ren'py. (Or build idk)
 
 
 Credits:
