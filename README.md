@@ -1,5 +1,5 @@
-# Leviathan Framework
-A functional mod example and framework for Cryptid Crush. (Coming soon)
+# Leviathan Framework - DEFINITLY SUSPENDED
+Let's dance, like it was the first time 
 
 
 Welcome human!
